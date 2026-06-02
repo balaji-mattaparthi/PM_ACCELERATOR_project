@@ -1,0 +1,10 @@
+{
+  "name": "PM Accelerator",
+  "description": "A full-stack weather application featuring live search, forecasts, favorites, CRUD transaction history, and live geolocated maps with AI recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

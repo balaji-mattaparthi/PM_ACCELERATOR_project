@@ -1,0 +1,12 @@
+[
+  {
+    "city": "Melbourne, Australia",
+    "temperature": "15.7°C",
+    "humidity": "90%",
+    "windSpeed": "12.8 km/h",
+    "condition": "Rainy",
+    "forecast": "Temporal scope: 2026-05-25 to 2026-06-01. Average high: 15.7°C, Average low: 10.1°C. Accumulated rainfall: 23.3mm.",
+    "searchedDateTime": "2026-05-25 1:46:41 PM",
+    "notes": "Range insights for Melbourne, Australia."
+  }
+]
